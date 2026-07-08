@@ -1,0 +1,3 @@
+[console_scripts]
+robopianist = robopianist.cli:main
+
